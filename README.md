@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oiee! bem-vindo ao meu perfil 🌻🌈
 
-<!--
-**NicoleMeds26/NicoleMeds26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nicole Medeiros
+- Sou estudante do Alura 🤓
+- Estou me desenvolvendo na linguagem JavaScript 👩‍🎓
+- Utilizo esse espaço para minha organização e para compartilhar meus projetos 🌷 
 
-Here are some ideas to get you started:
+  ### Você pode entrar em contato comigo 💌
+  
+  00001121705820sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://media1.tenor.com/m/YuM6wBwv9j8AAAAd/swifferpics-taylor-swift.gif)  
